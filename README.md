@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Almerinda Rocha
+# 👋 Olá, eu sou Almerinda Gomes
 
 🎯 Sou apaixonada por tecnologia e pelo impacto que ela pode gerar na sociedade.
 Meu foco é desenvolver soluções que façam diferença real nas áreas de **saúde, educação, negócios e agronomia**.
