@@ -3,13 +3,6 @@
 🎯 Sou apaixonada por tecnologia e pelo impacto que ela pode gerar na sociedade.
 Meu foco é desenvolver soluções que façam diferença real nas áreas de **saúde, educação, negócios e agronomia**.
 
----
-
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmerindaEstudo\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmerindaEstudo\&layout=compact\&theme=tokyonight)
 
 ---
 
