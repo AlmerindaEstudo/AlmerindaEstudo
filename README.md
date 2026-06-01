@@ -9,7 +9,6 @@ Meu foco é desenvolver soluções que façam diferença real nas áreas de **sa
 ## 🚀 Sobre mim
 
 💡 Tenho grande interesse em usar tecnologia para resolver problemas do mundo real
-📚 Também sou profundamente interessada em filosofia, buscando sempre unir pensamento crítico com inovação
 🌱 Acredito no poder da tecnologia como ferramenta de transformação social
 
 ---
@@ -20,8 +19,7 @@ Meu foco é desenvolver soluções que façam diferença real nas áreas de **sa
 * 🎓 Educação
 * 💼 Negócios
 * 🌾 Agronomia
-* 📖 Filosofia aplicada à tecnologia
-
+  
 ---
 
 ## 💻 Tecnologias e Ferramentas
